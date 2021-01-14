@@ -32,4 +32,4 @@ Listening on port 3000
 
 実際の動作状況は以下のようになる。
 
-![秋田犬](https://github.com/hugodeblog/node-passport-google/blob/images/google_login.gif)
+<img src="https://github.com/hugodeblog/node-passport-google/blob/images/google_login.gif" width="320px">
